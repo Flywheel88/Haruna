@@ -15,6 +15,8 @@ LICENSE — CC-BY 4.0 (short notice + link)
 /examples — (optional) add outputs, experiments, metrics here
 Quick start (5–10 min)
 
+Haruna — a language-based reasoning scaffold. See simple_use_instructions.md for a quick start (Loaded Mode) and advanced_use_instructions.md for Analytic/Assembly modes, metrics, and best practices.
+
 Clone the repo or use the GitHub UI to create files.
 Run the Colab skeleton (colab_skeleton.py) or paste haruna_prompt.txt into your LLM system prompt.
 Replace MODEL and API_KEY placeholders with your provider info.
