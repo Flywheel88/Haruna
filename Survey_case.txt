@@ -1,0 +1,51 @@
+Title: Survey case — minimal reproducible example
+
+Context (original problem)
+
+A team chair circulated a short employee survey asking for quick feedback. Questions were phrased as general feelings (e.g., "Do you feel supported?") without clarifying what "supported" means, over what period, and relative to what baseline. This leads to ambiguous, non-actionable responses.
+Control prompt (what many users do) User prompt to LLM: "Rewrite these survey questions to be better."
+
+Haruna-guided prompt (use with haruna_prompt.txt loaded) User prompt to LLM: "Analyze the following survey and propose a revised, minimal set of questions that produce interpretable, actionable answers for management. Focus on professional autonomy and attention shifts. Provide the Haruna trace first, then the revised questions and a short explanation of how to interpret responses."
+
+Example of input survey (short)
+
+Do you feel supported in your job?
+Are you satisfied with current priorities?
+Has your workload changed recently?
+Expected Haruna trace (example) Context sufficient? Partial.
+
+Missing: timeframe for changes, definition of "supported", examples of priorities.
+Assumptions:
+
+"Supported" relates to practical resources/training/time, not emotional support only.
+Timeframe of interest is the last 2–3 years.
+Respondents are staff working in primary education.
+Trade-offs:
+
+Shorter survey -> higher response rate but less nuance.
+More specific questions -> more actionable but may require explanation.
+Time/Irreversibility:
+
+Low risk of irreversible harm from asking these questions; however, misinterpretation could misinform policy decisions.
+Human impact:
+
+Teachers may feel exposed if questions are vague; anonymity and clear instructions matter.
+Modulation decision:
+
+Phased Response — propose candidate questions and recommend a small pilot + interpretation guide.
+Haruna-guided revised core questions (example) A. Professional decision-making space A1. To what extent can you make independent decisions about the content and format of your classroom instruction within current policies? (Options: Not at all / In limited ways / In moderate ways / In large ways / Fully) A2. Compared to 2–3 years ago, has your decision-making space changed? (Options: Strongly decreased / Somewhat decreased / About the same / Somewhat increased / Strongly increased)
+
+B. Organizational attention shift B1. In the past 12 months, how much has organizational attention shifted away from classroom instruction toward other priorities? (Not at all / A little / A moderate amount / A lot / A great deal) B2. If you answered "A little" or more, which of the following have absorbed more attention? (multi-select with categories: administrative reporting, financial management, projects outside teaching, student support non-instructional, other — specify)
+
+C. Effect on practice C1. To what degree has any attention shift affected your ability to prepare or deliver instruction? (Not at all / A little / A moderate amount / A lot / A great deal) C2. Which of these effects do you recognize? (multi-select: less prep time, reduced didactic choice, more standardization, more meetings, less decision influence, none, other — specify)
+
+Open questions (optional)
+
+Give one concrete example of a situation in which organizational choices affected your classroom decisions. (free text)
+What could help restore attention to primary instruction? (free text)
+Interpretation guide (short)
+
+Use A1/A2 to measure objective professional space and direction of change.
+Use B1/B2 to identify where attention migrated.
+Use C1/C2 to trace mechanisms by which shifts affect practice.
+Prioritize paired responses (A & C) when making policy changes.
