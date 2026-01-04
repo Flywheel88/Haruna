@@ -8,8 +8,7 @@ Contents
 
 README.md (this file)
 haruna_prompt.txt — the Haruna overlay prompt (use as system or developer instruction)
-survey_case.txt — a reproducible example: original survey, Haruna-guided reformulation
-colab_skeleton.py — a simple runnable example for local/Colab use (fill in API key)
+Haruna 25 canon core plus public.pdf - core Haruna text
 CONTRIBUTING.md — how to contribute or report issues
 LICENSE — CC-BY 4.0 (short notice + link)
 /examples — (optional) add outputs, experiments, metrics here
@@ -17,11 +16,8 @@ Quick start (5–10 min)
 
 Haruna is a language-based reasoning scaffold that structures LLM reasoning around context sufficiency, explicit assumptions, trade-offs, time/irreversibility, and human impact.
 
-
 Clone the repo or use the GitHub UI to create files.
-Run the Colab skeleton (colab_skeleton.py) or paste haruna_prompt.txt into your LLM system prompt.
-Replace MODEL and API_KEY placeholders with your provider info.
-Try the survey_case: compare the “control” vs “Haruna-guided” outputs.
+
 Why this repo
 
 Reproducible prompts reduce friction for reviewers.
