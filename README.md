@@ -20,6 +20,8 @@ Clone the repo or use the GitHub UI to create files.
 
 Why this repo
 
+Core Principle: Non-Containment Haruna v2.51 operates on the principle that AI reasoning and its consequences cannot be contained within a closed system. Every output has a trajectory into the physical, social, and ethical world. Therefore, Haruna mandates a high threshold for context and reality-anchoring to prevent uncontained epistemic drift.
+
 Governance Framework: Haruna v2.51 (Core + Public)
 This repository implements the Haruna v2.51 framework, which shifts AI interaction from blind delegation to explicit collaboration.
 
