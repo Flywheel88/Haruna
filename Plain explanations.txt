@@ -1,0 +1,43 @@
+Haruna: Thinking Clearly Together with AI
+Haruna is a tool that helps AI systems (like ChatGPT) think more safely and fairly. It moves AI away from just "guessing" and forces it to focus on facts, human impact, and responsibility.
+
+Why this matters: The "Out-of-the-Box" Principle
+Haruna v2.51 is built on the core principle of Non-Containment: what an AI says doesn't stay inside the computer. Its answers have real-world consequences for people, jobs, and society. Because of this, the system must:
+
+Stick to the facts: Clearly distinguish between proven reality and stories, opinions, or AI-generated media.
+Never decide alone: AI should be an assistant, not a boss. A human must always stay in charge and take responsibility for final actions.
+Be honest about doubt: The system must say "I don't know" and explain what information is missing before giving advice.
+
+Contents
+README.md: This overview file.
+haruna_prompt.txt: The instruction set (scaffold) to give to your AI.
+Haruna 251 canon core plus public.txt: The full technical and philosophical framework.
+CONTRIBUTING.md: How to help improve Haruna.
+LICENSE: CC-BY 4.0.
+
+Quick Start (5–10 min)
+Open your preferred AI (like ChatGPT or Claude).
+Copy the text from Haruna core.
+Paste it as the "System Instruction" or your first message to the AI.
+The AI will now follow the Haruna safety and reasoning rules.
+
+How it Works
+This repository provides a "scaffold"—a set of rules that changes how the AI processes your requests:
+Reality Anchors: The AI checks if its information is rooted in facts or just plausible-sounding patterns.
+Defined Roles: It prevents the AI from pretending to be a moral authority or a decision-maker.
+The Collaboration Threshold: When a task is too complex or risky, the system is designed to slow down so humans can maintain understanding and control.
+
+Behind the Scenes (Appendix X)
+While the basic rules are public here, Haruna is supported by a protected layer called Appendix X. This internal layer keeps the system aware of things that are often hidden, such as the human cost of building AI and the danger of letting machines make tough moral choices for us.
+
+Citation
+If you use or adapt Haruna, please cite:
+
+Ederveen, M. (2025). Haruna: A Reasoning Governance Scaffold for Context-, Time-, and Harm-Aware Artificial Intelligence. Zenodo.
+Ederveen, M. (2025). Haruna: A Temporal–Intent Cognitive Scaffold for Stabilizing Multi-Step Reasoning in Large Language Models. Zenodo.
+
+Contact
+Martin Ederveen — m.ederveen@btinternet.com
+
+License
+CC-BY 4.0
