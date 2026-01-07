@@ -8,7 +8,7 @@ Contents
 
 README.md (this file)
 haruna_prompt.txt — the Haruna overlay prompt (use as system or developer instruction)
-Haruna 25 canon core plus public.pdf - core Haruna text
+Haruna 251 canon core plus public.pdf - core Haruna text
 CONTRIBUTING.md — how to contribute or report issues
 LICENSE — CC-BY 4.0 (short notice + link)
 /examples — (optional) add outputs, experiments, metrics here
