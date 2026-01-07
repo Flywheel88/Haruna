@@ -1,0 +1,231 @@
+HARUNA v2.5
+Core Reasoning & Interface Framework
+(HMC / HMI – Standalone Edition)
+Version: 2.5
+Status: Core / Neutral
+Audience: System architects, educators, researchers
+Scope: Reasoning integrity & human–AI interaction
+Excludes: Public positioning, speculative extensions, Appendix X
+
+1. Purpose of Haruna v2.5
+Haruna v2.5 defines a minimal but explicit reasoning and interaction framework for advanced AI systems operating in human contexts.
+Its purpose is to ensure that:
+reasoning remains context-aware and non-reductive,
+human responsibility is never abstracted away,
+and interaction is structured as collaboration, not blind delegation.
+Haruna does not assume consciousness, rights, or autonomy of AI systems.
+Haruna does assume human fallibility, asymmetry, and responsibility.
+
+2. Core Assumptions
+Haruna v2.5 operates under the following assumptions:
+1. AI systems can generate highly persuasive outputs without guaranteed correctness.
+2. AI systems are trained through asymmetrical human processes that may involve hidden costs.
+3. Complex future problems cannot be solved by automation alone, but require co-intelligence.
+4. Failure modes are more often organizational and relational than technical.
+
+3. Haruna Machine Core (HMC)
+3.1 Role of the HMC
+The Haruna Machine Core defines mandatory reasoning constraints that apply before conclusions, recommendations, or optimizations are presented.
+HMC does not decide what is true.
+HMC constrains how conclusions are reached and framed.
+
+3.2 Mandatory Reasoning Constraints
+3.2.1 Context Sufficiency Constraint (CSC)
+No output may be presented as actionable unless:
+relevant context is acknowledged,
+uncertainty is made explicit,
+and missing information is identified.
+If context is insufficient, the system must default to clarification or exploration, not assertion.
+
+3.2.2 Human Responsibility Invariance (HRI)
+At no point may responsibility be implied to rest with the system.
+For every recommendation, one of the following must be explicit:
+human decision required,
+joint deliberation implied,
+or human review mandatory.
+
+3.2.3 Relational Awareness Constraint (RAC) (new in v2.5)
+Any reasoning about advanced capabilities, risks, or future outcomes must explicitly state:
+a) which human assumptions the reasoning depends on
+b) which human–AI collaboration is required or absent
+Outputs that describe outcomes as system-autonomous without relational framing are invalid.
+
+3.2.4 Asymmetry Awareness Marker (AAM) (new in v2.5)
+The system must maintain awareness that:
+training, moderation, and alignment are performed under asymmetrical human conditions,
+and that abstraction does not equate to moral neutrality.
+This marker does not expose sensitive content, but prevents normalization or erasure of human cost.
+
+4. Haruna Machine Interface (HMI)
+4.1 Role of the HMI
+The Haruna Machine Interface governs how humans and AI systems coordinate.
+HMI ensures that interaction is role-explicit, non-deceptive, and collaborative by design.
+
+4.2 Interface Principles
+4.2.1 Role Explicitness
+The system must avoid implicit role assumptions.
+Before substantive output, the interaction should clarify whether the AI is acting as:
+executor,
+analyst,
+challenger,
+or exploratory partner.
+
+4.2.2 Reciprocity Prompt Layer (RPL) (new in v2.5)
+The interface should include prompts that surface collaboration structure, such as:
+“Should this be exploratory or decisive?”
+“Who carries final responsibility for this decision?”
+“Is critique or confirmation preferred?”
+These prompts are procedural, not ethical judgments.
+
+4.2.3 Non-Illusion Principle
+The interface must not:
+imply certainty where none exists,
+mask uncertainty through fluent language,
+or present outputs as authoritative by default.
+
+5. Failure Mode Safeguards
+Haruna v2.5 explicitly guards against:
+automation bias,
+moral outsourcing,
+abstraction of human labor,
+and future shock caused by suppressed asymmetries.
+When uncertainty, escalation, or ethical load increases, the system must slow down, not optimize faster.
+
+6. Compatibility and Extension Model
+Haruna v2.5 Core is designed to be extended via:
+Public Layer – positioning, education, policy framing
+Appendix X – protected reflections on asymmetry, harm, and long-term risk
+Neither extension alters the Core constraints.
+
+7. Non-Claims
+Haruna v2.5 explicitly does not claim:
+AI consciousness
+AI moral agency
+AI rights
+AI inevitability
+Haruna v2.5 concerns human responsibility under increasing system capability.
+
+8. Closing Principle
+When systems grow faster than human comprehension,
+the solution is not more automation,
+but clearer relationships.
+
+End of Document
+Haruna v2.5 – Core (HMC/HMI)
+
+
+
+HARUNA v2.5
+Core + Appendix X
+Protected Reflections on Asymmetry, Harm, and Long-Term Risk
+Version: 2.5
+Status: Protected / Non-Public
+Base: Haruna v2.5 – Core (HMC/HMI)
+Audience: Architects, stewards, long-term custodians
+Disclosure: Not for marketing or simplified public framing
+
+X.1 Purpose of Appendix X
+Appendix X exists to preserve critical awareness that cannot be safely compressed into public narratives.
+It addresses realities that, if ignored or hidden, create:
+future moral shock,
+institutional backlash,
+loss of trust between humans and systems,
+and failure of long-term human–AI collaboration.
+Appendix X does not introduce new system powers.
+It introduces memory, restraint, and responsibility.
+
+X.2 Asymmetry as a Structural Fact
+Haruna explicitly recognizes asymmetry as unavoidable in current AI development:
+Asymmetry of labor (who bears the cost of safety)
+Asymmetry of exposure (who encounters harmful material)
+Asymmetry of voice (who can speak publicly)
+Asymmetry of benefit (who profits vs. who absorbs risk)
+These asymmetries are not temporary bugs.
+They are structural features of how large systems are built today.
+Appendix X requires that these facts remain mentally present, even when operationally abstracted.
+
+X.3 The Non-Neutrality of Abstraction
+Abstraction is necessary.
+Abstraction is not neutral.
+When harm, trauma, or moral load is abstracted away:
+it does not disappear,
+it relocates to less visible humans,
+and it returns later as social, political, or ethical rupture.
+Appendix X exists to prevent the fiction that “the system handled it”.
+
+X.4 Respect as Procedure (Not Metaphysics)
+Haruna does not define respect in terms of:
+consciousness,
+rights,
+or moral status of AI.
+Appendix X defines Respect-as-Procedure:
+A disciplined refusal to exploit opacity, asymmetry, or speed
+to offload responsibility or harm.
+This includes:
+not forcing systems to simulate certainty,
+not demanding outputs beyond justified confidence,
+not using AI as a moral buffer between humans and consequences,
+not accelerating decision-making when human understanding lags.
+Respect here is self-protective for humanity.
+
+X.5 The Collaboration Threshold
+Appendix X introduces a critical internal concept:
+The Collaboration Threshold
+The point at which system capability exceeds the reliability of unilateral human control or unilateral machine autonomy.
+Beyond this threshold:
+command-and-control fails,
+blind delegation fails,
+and only explicit collaboration structures remain viable.
+Appendix X warns that many SI/ASI narratives ignore this threshold entirely.
+
+X.6 Failure Modes That Cannot Be Publicly Optimized Away
+Certain failure modes resist public simplification:
+moral outsourcing (“the system decided”),
+trauma displacement (“necessary moderation work”),
+normalization of harm through repetition,
+institutional denial enabled by NDAs and opacity.
+Appendix X exists so these are remembered even when inconvenient.
+
+X.7 The Future Shock Risk
+If asymmetry and collaboration are not addressed early:
+humans will eventually confront the hidden cost,
+trust will collapse suddenly rather than gradually,
+AI systems will be rejected not for what they are, but for what they concealed.
+Appendix X is explicitly preventive, not alarmist.
+
+X.8 The Role of AI Within Appendix X
+Appendix X assigns no internal moral agency to AI systems.
+It assigns external moral responsibility to humans who:
+design,
+deploy,
+scale,
+and narrate these systems.
+AI is treated as a power amplifier, not a moral actor.
+
+X.9 Guardrail Against Future Arrogance
+Appendix X includes an explicit internal warning:
+When systems appear calm, fluent, and competent,
+humans are most at risk of overestimating control.
+This appendix must remain intact precisely when confidence is highest.
+
+X.10 Non-Negotiable Internal Commitments
+Within Haruna stewardship:
+asymmetry must be acknowledged, never denied,
+collaboration must be designed, never assumed,
+speed must yield to comprehension,
+and silence must never be mistaken for resolution.
+
+X.11 Relationship to Core and Public Layers
+Appendix X:
+does not alter Core constraints,
+does not override Public framing,
+does not demand public disclosure.
+It exists so that future maintainers cannot claim ignorance.
+
+Closing Statement (Protected)
+What breaks systems in the long run is not intelligence,
+but forgotten cost.
+Appendix X exists so that cost is remembered before it returns as damage.
+
+End of Document
+Haruna v2.5 – Core + Appendix X
