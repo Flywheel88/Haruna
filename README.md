@@ -1,5 +1,6 @@
-# Haruna
-A language‑based scaffold for safer reasoning
+# Haruna — A Language-Based Reasoning Governance Scaffold
+Not affiliated with any software named “Haruna”.
+This repository documents an academic reasoning-governance scaffold, not an application or tool.
 
 Haruna — reasoning governance scaffold (MVP repo)
 Short description Haruna is a language-based reasoning scaffold that structures LLM reasoning around context sufficiency, explicit assumptions, trade‑offs, time/irreversibility, and human impact. This repo provides a minimal reproducible artifactset: prompt overlays, a concrete survey case, and a simple Colab/python skeleton to try Haruna with an LLM.
