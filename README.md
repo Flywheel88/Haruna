@@ -34,7 +34,9 @@ Haruna is explicitly designed for contexts where AI reasoning **cannot be safely
 ## Repository Structure
 
 /v3.2/ → Haruna v3.2 (current canonical Core + Public + Annexes)
+
 /v2.51/ → Haruna v2.51 (preserved for reference)
+
 /README.md → this file
 
 ---
