@@ -7,8 +7,8 @@ This repository documents an **academic reasoning-governance scaffold**, not an 
 
 ## Current Status
 
-- **Current canonical version:** **Haruna v3.2** → see `/v3.2/`
-- **Preserved previous version:** **Haruna v2.51** → see `/v2.51/`
+- **Current canonical version:** **Haruna 3.2** → see `/3.2/`
+- **Preserved previous version:** **Haruna 2.51** → see `/2.51/`
 
 Multiple Haruna versions are kept side-by-side to ensure **traceability, reproducibility, and reviewability**.
 
@@ -33,9 +33,9 @@ Haruna is explicitly designed for contexts where AI reasoning **cannot be safely
 
 ## Repository Structure
 
-/v3.2/ → Haruna v3.2 (current canonical Core + Public + Annexes)
+/3.2/ → Haruna v3.2 (current canonical Core + Public + Annexes)
 
-/v2.51/ → Haruna v2.51 (preserved for reference)
+/2.51/ → Haruna v2.51 (preserved for reference)
 
 /README.md → this file
 
