@@ -4,7 +4,7 @@
 
 This repository keeps multiple Haruna versions side-by-side for traceability.
 
-# Haruna 3.2 — Current Canonical Version
+# Haruna 3.2 — Current Canonical Version (frozen)
 
 This folder contains the current Haruna 3.2 Core, Public text,
-and public Annexes (Annex A, Annex B, Annex C, Annex D, Annex E).
+and Public Annexes (Annex A, Annex B, Annex C, Annex D, Annex E, Annex F, Annex G).
