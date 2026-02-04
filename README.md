@@ -38,6 +38,7 @@ Haruna is explicitly designed for contexts where AI reasoning **cannot be safely
 /2.51/ → Haruna v2.51 (preserved for reference)
 
 /README.md → this file
+/Public Recommendations → Why use or not use Haruna?
 
 ---
 
