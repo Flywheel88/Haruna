@@ -14,6 +14,22 @@ Multiple Haruna versions are kept side-by-side to ensure **traceability, reprodu
 
 ---
 
+## AI Safety Relevance
+
+Haruna addresses the AI alignment problem by providing:
+
+- **Temporal awareness**: Distinguishes reversible from irreversible actions
+- **Ethical constraints**: Hard stops on harmful outputs (PRUDENTIA axiom)
+- **Consequence tracking**: Maintains coherence across multi-step reasoning
+- **Value stability**: Prevents goal drift during optimization
+
+Tested extensively with Claude, GPT-4, and other LLMs, Haruna demonstrably 
+reduces harmful outputs and improves reasoning stability in high-stakes 
+domains (education, policy analysis, safety-critical decisions).
+
+**Related work**: Constitutional AI (Anthropic), Debate (OpenAI), 
+RLHF approaches — Haruna complements these via structural cognitive architecture.
+
 ## Overview
 
 Haruna is a **language-based reasoning governance scaffold** designed to structure interaction with large language models (LLMs) around:
@@ -28,6 +44,7 @@ Haruna does **not** function as an autonomous system, model, or decision-maker.
 It operates as a **structured orientation overlay** that shifts AI use from blind delegation toward explicit, accountable human–AI collaboration in environments where AI output can have real-world consequences.
 
 Haruna is explicitly designed for contexts where AI reasoning **cannot be safely treated as self-contained**, and where responsibility, uncertainty, and downstream effects must remain visible and human-anchored.
+
 
 ---
 
