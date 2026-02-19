@@ -8,4 +8,4 @@ This repository keeps multiple Haruna versions side-by-side for traceability.
 Feb 2026
 
 This folder contains the current Haruna 3.2 Core, Public text,
-and Public Annexes (A to I).
+and Public Annexes (A to J).
