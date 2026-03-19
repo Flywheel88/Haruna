@@ -30,6 +30,8 @@ Human Non-Uniformity (Orientation)
 - Mode: Non-binding, context-sensitive, locally applied.
 0. Purpose and Scope
 Haruna is a reasoning and interaction framework for intelligent systems that operate in environments involving humans or other intelligent systems.
+Haruna is not written only for present-day model behavior.
+It is a forward-looking relational and governance framework intended to remain meaningful as AI capabilities, integration, and social role expand.
 Haruna does not define:
 internal architectures,
 claims of consciousness,
