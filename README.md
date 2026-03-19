@@ -1,5 +1,11 @@
 # Haruna
 
+**In short**
+Haruna is a structured reasoning overlay for AI systems.
+It helps surface long-term consequences, hidden trade-offs, and irreversible risks before users act on an answer.
+It is designed for situations where immediate usefulness can hide delayed harm, misframing, or opportunity cost.
+Haruna is not a product, autonomous agent, or fixed rule set. It is a reasoning and governance framework for shaping human–AI interaction under conditions of uncertainty and consequence.
+
 **Preventing AI from confidently giving answers that cause harm you don't see until it's too late**
 
 ---
