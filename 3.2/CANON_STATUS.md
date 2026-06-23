@@ -16,12 +16,8 @@ Haruna 3.2
 │  └─ Frozen canonical core
 ├─ Public
 │  └─ Explanatory public framing
-├─ Annexes A–J
+├─ Annexes A–M
 │  └─ Essential public extensions
-├─ Annex K
-│  └─ Advanced optional operational layer
-├─ Annex L
-│  └─ Experimental optional conversational layer
 ├─ Appendix X
 │  └─ Non-public, default OFF, absent from repository
 └─ OLD files
@@ -44,44 +40,18 @@ Use: Helps readers understand the purpose, scope, and public framing of Haruna 3
 
 The Public layer explains Haruna for external readers. It is not a separate competing canon and should be read in relation to the Core.
 
-Annex A–J
+Annex A–M
 
 Status: Essential public extensions
 Role: Publicly available extensions of Haruna 3.2
 Use: Clarify and extend the Core into specific domains, safeguards, interaction principles, and operational concerns.
 
-Annexes A–J are part of the essential public Haruna 3.2 framework. They extend the Core but do not replace or override it.
+Annexes A–M are part of the essential public Haruna 3.2 framework. They extend the Core but do not replace or override it.
 
-Annex K
 
-Status: Advanced optional
-Role: Advanced operational layer
-Use: Provides additional temporal and operational modulation for more complex or higher-stakes contexts.
-
-Annex K is optional. It may be used when additional operational sensitivity is needed, especially around time, uncertainty, irreversibility, or decision pressure.
-
-Annex K does not override the Core or Annexes A–J.
-
-Annex L
-
-Status: Experimental optional
-Role: Conversational posture calibration
-Use: Explores how interaction style, tone, and conversational posture can be calibrated without weakening Haruna’s core safeguards.
-
-Annex L is experimental. It should be used cautiously and only as an optional layer.
-
-Annex L does not override:
-
-the Core,
-Annexes A–J,
-Annex K,
-responsibility boundaries,
-verification scaling,
-asymmetry safeguards,
-or temporal discipline.
 Appendix X
 
-Status: Non-public, optional, default OFF
+Status: **Non-public**, optional, default OFF
 Role: Protected reflective layer
 Repository status: Absent from public repository
 Use: Not part of the public Haruna 3.2 repository.
